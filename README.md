@@ -1,7 +1,5 @@
 ## aditi_s_application6
 
-
-
 ## Description
 
 - This React application is built using [create-react-app](https://create-react-app.dev/).
